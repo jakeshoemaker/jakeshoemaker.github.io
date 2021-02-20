@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost/about/</loc>
+    <loc>https://jakeshoemaker.github.io/about/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/resume/</loc>
+    <loc>https://jakeshoemaker.github.io/resume/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/projects/</loc>
+    <loc>https://jakeshoemaker.github.io/projects/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/categories/</loc>
+    <loc>https://jakeshoemaker.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>localhost/</loc>
+    <loc>https://jakeshoemaker.github.io/</loc>
   </url>
   
   <url>
-    <loc>localhost/series/</loc>
+    <loc>https://jakeshoemaker.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>localhost/tags/</loc>
+    <loc>https://jakeshoemaker.github.io/tags/</loc>
   </url>
   
 </urlset>

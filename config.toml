@@ -1,7 +1,7 @@
-baseURL = "jakeshoemaker.github.io"
+baseURL = "https://jakeshoemaker.github.io"
 title   = "jake shoemaker"
 languageCode = "en-us"
-theme = "themes/dynamic-theme"
+theme = "hello-friend"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
