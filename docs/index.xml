@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jake shoemaker</title>
+    <link>localhost/</link>
+    <description>Recent content on jake shoemaker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>localhost/about/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/about/</guid>
+      <description>I am a graduating senior from Dallas Baptist University with my Bachelor&amp;rsquo;s in Computer Science, focused in internet computing. My passion is learning. I love being a student and have always been motivated by idea of improvement!  My passions in the tech are ranged from:
+ Machine learning Data science + Analytics Automation IoT  When I&amp;rsquo;m not coding, I love playing electric guitar, video games and skateboaring!
+Heres what ive been doing recently!</description>
+    </item>
+    
+    <item>
+      <title>Current Resume</title>
+      <link>localhost/resume/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Projects</title>
+      <link>localhost/projects/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/projects/</guid>
+      <description>House Price Predictor A Machine learning program that classifies a house&amp;rsquo;s price  House Classifier is my first full scale machine learning project. It felt like I was drinking from a firehose when coding this but I learned so much! Some of the key things I learned about were:
+ Linear Regression, Support Vector Machines Fine Tuning Models Building infastructure for Machine Learning Code The importance of having a balanced test-set  Libraries used  pandas numpy sklearn matplotlib   Plant Doctor A full stack IoT app made with ❤  Plant Doctor is a Website I created in order to monitor the moisture of my plant.</description>
+    </item>
+    
+  </channel>
+</rss>
