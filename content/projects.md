@@ -35,9 +35,8 @@ aliases = ["projects"]
 
 ![](/plant-doc.PNG)
 
-I am creating a web site where you can monitor the health of any plant! 
+I am created a web site where you can monitor the health of any plant! 
 - never forget to water your plant (or remember that it doesnt need any more water)
-- the application will be configurable to report on more than one plant, if needed
 
 ## Technologies used
 - react.js 
